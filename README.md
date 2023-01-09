@@ -1,4 +1,4 @@
-# pos
+# Inventory Management and POS
 
 A Flutter project.
 
